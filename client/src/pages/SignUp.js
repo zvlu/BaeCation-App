@@ -1,2 +1,13 @@
 import React from "react";
-import { useHistory } from "react-router-dom";
+
+
+function SignUp() {
+    return( 
+        <div className = "container">
+            <div className= ""></div>
+        </div>
+    );
+
+}
+
+export default SignUp;
